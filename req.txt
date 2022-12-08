@@ -1,7 +1,0 @@
-REQUIREMENTS:
-
-library to run python code : flask, response
-
-currency convertor link for api keys :https://free.currencyconverterapi.com/ 
-
-Dialogflow : https://cloud.google.com/dialogflow
